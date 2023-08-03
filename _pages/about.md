@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Giser</a>. Spatial Data Scientist.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Chen Chu (初晨), a Master student at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences. My research interests focus on human mobility modeling, interpretable spatiotemporal prediction, and spatiotemporal data mining.
+Hi! I am Chen Chu (初晨), a Master student at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences. My research interests include human mobility modeling, interpretable spatiotemporal prediction, and spatiotemporal data mining.
 
 Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
