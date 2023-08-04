@@ -20,6 +20,16 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am Chen Chu (初晨), a Master student at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences. My research interests include human mobility modeling, interpretable spatiotemporal prediction, and spatiotemporal data mining.
 
+I really enjoy exploring all kinds of spatial data. And I am crazy about using the most advanced Artifical Intelligence algorithms to solve spatial data tasks.
+
+Standing in the intersection of GIScience and AI, I believe the reaserch of GeoAI has come to a turning point. 
+
+The basic laws in Geography have been widely applied in directing human development. While 
+
+I want to build , bridging  unified framework.
+
+Since I have been doing relative research 
+
 Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
