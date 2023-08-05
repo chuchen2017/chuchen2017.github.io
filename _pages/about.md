@@ -22,7 +22,7 @@ Hi! I am `Chen Chu` (初晨), a Master student at State Key Laboratory of Resour
 
 I really enjoy exploring all kinds of spatial data. And I am crazy about using the most advanced Artifical Intelligence algorithms to solve spatial data tasks.
 
-Standing in the intersection of {GIScience} and 'AI', I believe the reaserch of GeoAI has come to a turning point. 
+Standing in the intersection of [GIScience] and AI, I believe the reaserch of GeoAI has come to a turning point. 
 
 The basic laws in Geography have been widely applied in directing human development. While 
 
