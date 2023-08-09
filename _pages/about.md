@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Giser</a>. Spatial Data Scientist.
+subtitle: <b>Giser. Spatial Data Scientist.</b>
 
 profile:
   align: right
@@ -20,18 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am `Chen Chu` (初晨), a Master student at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences. My research interests include human mobility modeling, interpretable spatiotemporal prediction, and spatiotemporal data mining.
 
-I really enjoy exploring all kinds of spatial data. And I am crazy about using the most advanced Artifical Intelligence algorithms to solve spatial data tasks.
+I enjoy exploring all kinds of spatial data. And I am excited about solving the most important geography problems with advanced Artifical Intelligence methods. Meanwhile, I focus on the interpretability of the model, and I try to find out how AI understand the space we live in, so it can guide the next step of our research. During my master study, I have demonstrated parts of my research concepts into several [papers](https://chuchen2017.github.io/publications/).
 
-Standing in the intersection of <b>GIScience</b> and AI, I believe the reaserch of GeoAI has come to a turning point. 
+Standing in the intersection of <b>GIScience</b> and <b>AI</b>, I believe the reaserch of GeoAI has come to a turning point. A unified `location encoding` method is the key to this turning. The method shall be able to represent all the prior knowledge of geographers, such as spatial heterogeneity. At the same time, it shall be flexible, so scientists from other realms can adopt the method into their researches without further adjustment. I really look forward to developing such kind of method and bringing the GeoAI into the next level. 
 
-The basic laws in Geography have been widely applied in directing human development. While 
+The basic laws in Geography have been widely applied in directing human development. While  Following the concept of spatially explicit learning,
 
 I want to build , bridging  unified framework.
 
 Since I have been doing relative research 
 
-Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://github.com/FortAwesome/Font-Awesome) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
