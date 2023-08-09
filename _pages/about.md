@@ -24,9 +24,4 @@ I enjoy exploring all kinds of spatial data. And I am excited about solving the 
 
 Standing in the intersection of <b>GIScience</b> and <b>AI</b>, I believe the reaserch of GeoAI has come to a turning point. A unified `location encoding` method is the key to this turning. The method shall be able to represent all the prior knowledge of geographers, such as spatial heterogeneity. At the same time, it shall be flexible, so scientists from other realms can adopt the method into their researches without further adjustment. I really look forward to developing such kind of method and bringing the GeoAI into the next level. 
 
-The basic laws in Geography have been widely applied in directing human development. While  Following the concept of spatially explicit learning,
-
-I want to build , bridging  unified framework.
-
-Since I have been doing relative research 
 
