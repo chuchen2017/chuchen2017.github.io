@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<font color="red">**2021 Principal's Scholarship of Yunnan University (10 out of all 4000+ undergraduate students)**</font>
+<b><font color="red">2021 Principal's Scholarship of Yunnan University (10 out of all 4000+ undergraduate students)</font></b>
 
