@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-2021 Principal's Scholarship of Yunnan University (10 out of all 4000+ undergraduate students)
+<font color="red">2021 Principal's Scholarship of Yunnan University (10 out of all 4000+ undergraduate students)</font>
+

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2020 Chinese National Scholarship
+<font color="red">2020 Chinese National Scholarship</font>
