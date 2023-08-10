@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Outstanding Bachelor’s Thesis Award.
+2021 Outstanding Bachelor’s Thesis Award of Yunnan University .
