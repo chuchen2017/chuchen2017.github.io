@@ -14,7 +14,7 @@
   },
   "education": [
     {
-      "institution": "State Key Laboratory of Resources and Environmental Information System, IGSNRR, University of Chinese Academy of Sciences, supervised by Prof. [Feng Lu](http://www.lreis.ac.cn/kyry/yjy/201609/t20160909_347829.html) and Assoc Prof. [Hengcai Zhang](http://www.lreis.ac.cn/kyry/fyjy/201705/t20170512_372517.html)",
+      "institution": "State Key Laboratory of Resources and Environmental Information System, IGSNRR, University of Chinese Academy of Sciences. <br> Supervised by Prof. [Feng Lu](http://www.lreis.ac.cn/kyry/yjy/201609/t20160909_347829.html) and Assoc Prof. [Hengcai Zhang](http://www.lreis.ac.cn/kyry/fyjy/201705/t20170512_372517.html)",
       "url": "http://english.igsnrr.cas.cn/",
       "area": "GIScience",
       "studyType": "Master",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "institution": "Yunnan University, Kunming, Yunnan Province, supervised by Assoc Prof. Fei Zhao",
+      "institution": "Yunnan University, Kunming, Yunnan Province. <br> Supervised by Assoc Prof. Fei Zhao",
       "url": "http://www.ynu.edu.cn/",
       "area": "Geography Information Science",
       "studyType": "Bachelor",
