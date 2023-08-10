@@ -14,7 +14,7 @@
   },
   "education": [
     {
-      "institution": "State Key Laboratory of Resources and Environmental Information System, IGSNRR, University of Chinese Academy of Sciences",
+      "institution": "State Key Laboratory of Resources and Environmental Information System, IGSNRR, University of Chinese Academy of Sciences, supervised by Prof. Feng Lu and Assoc Prof. Hengcai Zhang",
       "url": "http://english.igsnrr.cas.cn/",
       "area": "GIScience",
       "studyType": "Master",
@@ -22,11 +22,11 @@
       "endDate": "2023-06-01",
       "score": "",
       "courses": [
-        "Spatial Data Mining, Machine Learning, Deep Learning"
+        "Spatial Data Mining","Machine Learning","Deep Learning"
       ]
     },
     {
-      "institution": "Yunnan University, Kunming, Yunnan Province",
+      "institution": "Yunnan University, Kunming, Yunnan Province, supervised by Assoc Prof. Fei Zhao",
       "url": "http://www.ynu.edu.cn/",
       "area": "Geography Information Science",
       "studyType": "Bachelor",
