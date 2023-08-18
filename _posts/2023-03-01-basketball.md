@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  As a basketball player
+title:  My basketball career
 date: 2023-03-01 21:01:00
-description: My basketball career
+description: As a basketball player
 tags: life images
 categories: sample-posts
 thumbnail: assets/img/basketball3.jpg
