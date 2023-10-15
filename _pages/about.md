@@ -24,4 +24,4 @@ Standing at the intersection of <b>GIScience</b> and <b>AI</b>, I believe the re
 
 To achieve this, I have equipped myself with fundamental skills. I enjoy exploring all types of spatial data and am enthusiastic about addressing the most important geography problems with advanced Artificial Intelligence methods.  Moreover, I prioritize the interpretability of the model and seek to understand how AI perceives our physical world. These ways of thinking are expected to guide the subsequent step of my research. I have articulated parts of my research concepts in several [papers](https://chuchen2017.github.io/publications/) during my master's studies.
 
-So glad to announce that our research "TrajGDM: A New Trajectory Foundation Model for Simulating Human Mobility" is accepted by the `finalist of ACM SIGSPATIAL 2023 Student Research Competition`! We are going to Germany this November to give a speech on the conference!  
+So glad to announce that our research is accepted by the <b>finalist of ACM SIGSPATIAL 2023 Student Research Competition</b>! We are going to Germany this November to give a speech on the conference!  
