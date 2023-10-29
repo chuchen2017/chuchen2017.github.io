@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2023 First Class Director's Scholarship of IGSNRR, CAS
+2023 First Class Director's Scholarship of IGSNRR, CAS (top 15%)

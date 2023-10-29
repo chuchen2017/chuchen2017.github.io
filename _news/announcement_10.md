@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2022 First Class Academic Scholarship of IGSNRR, CAS
+2023 First Class Academic Scholarship of IGSNRR, CAS
