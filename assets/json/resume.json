@@ -6,7 +6,7 @@
     "email": "chuchen0411@igsnrr.ac.cn",
     "phone": "15953246080",
     "url": "https://chuchen2017.github.io/",
-    "Research Interests": "human mobility modeling, interpretable spatiotemporal prediction, spatiotemporal data mining, location encoding, GeoAI",
+    "Research Interests": "human mobility modeling",
     "location": {
       "countryCode": "China",
       "region": "Beijing"
@@ -22,7 +22,7 @@
       "endDate": "2024-06-01",
       "score": "",
       "courses": [
-        "Spatial Data Mining","Machine Learning","Deep Learning"
+        "Spatial Data Mining"
       ]
     },
     {
