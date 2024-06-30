@@ -23,6 +23,20 @@ With the team of University of Chinese Academy of Science, we won the fifth plac
     Play with team of UCAS
 </div>
 
+Then we won the second plcae in the CUBAL 2024 Beijing Section.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Play with team of UCAS
+</div>
+
 
 With the team of Yunnan University, we won the fifth place in the CUBA games in Yunnan Province. (Pity)
 
