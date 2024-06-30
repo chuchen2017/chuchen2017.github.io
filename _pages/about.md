@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am `Chen Chu` (初晨), a Master student supervised by Prof. [Feng Lu](http://english.igsnrr.cas.cn/people/scientists/index_19010.html?json=http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/yw/scientists/En_sklreis/202012/t20201211_5815405.json) and Assoc Prof. [Hengcai Zhang](https://scholar.google.com/citations?user=ys6nhTMAAAAJ&hl=zh-CN&oi=ao) at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS). My research interests include **human mobility modeling**.
+Hi! I am `Chen Chu` (初晨), a Master student supervised by Prof. [Feng Lu](http://english.igsnrr.cas.cn/en_sourcedb_igsnrr/yw_30508/scientists/En_sklreis/202012/t20201211_456373.html) and Assoc Prof. [Hengcai Zhang](https://scholar.google.com/citations?user=ys6nhTMAAAAJ&hl=zh-CN&oi=ao) at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS). 
 
+I am going to start my Ph.D. career at the University of Southern California (USC) in this August, advised by Professor [Cyrus Shahabi](https://infolab.usc.edu/).
 
+My research interests include **human mobility modeling**, **Spatially Explicit AI**. Please feel free to reach out to me. 
