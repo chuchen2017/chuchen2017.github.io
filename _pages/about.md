@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Giser. Spatial Data Scientist.</b>
+subtitle: <b>Spatial Data Scientist.</b>
 
 profile:
   align: right
