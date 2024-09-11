@@ -18,10 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am `Chen Chu` (初晨), a Master student supervised by Prof. [Feng Lu](http://english.igsnrr.cas.cn/en_sourcedb_igsnrr/yw_30508/scientists/En_sklreis/202012/t20201211_456373.html) and Assoc Prof. [Hengcai Zhang](https://scholar.google.com/citations?user=ys6nhTMAAAAJ&hl=zh-CN&oi=ao) at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS). 
+Hi! I am `Chen Chu` (初晨), I am a first-year Computer Science Ph.D. student at the University of Southern California, advised by Professor [Cyrus Shahabi](https://infolab.usc.edu/). I am passionate about developing SOTA AI models to solve spatial problems, which involved trajectory modeling and predicting, spatial-temporal prediction, location encoding learning and AI based polygon/urban representation learning. 
 
-I am going to start my Ph.D. career at the University of Southern California (USC) Thomas Lord Department of Computer Science in this August, advised by Professor [Cyrus Shahabi](https://infolab.usc.edu/).
+Standing at the frontier that bridges spatial data science and Artificial Intelligence (AI), I believe the next turning point of spatial AI will be brought by a unified representation learning method of space and spatial entities.
 
-My research interests include **human mobility modeling**, **Spatially Explicit AI**. 
+Prior to my Ph.D., I earned my Master degree from State Key Laboratory of Resources and Environmental Information System (LREIS), University of Chinese Academy of Sciences (CAS), where I was supervised by Prof. [Feng Lu](https://scholar.google.com/citations?user=oeS87xoAAAAJ&hl=zh-CN) and Assoc Prof. [Hengcai Zhang](https://scholar.google.com/citations?user=ys6nhTMAAAAJ&hl=zh-CN&oi=ao). 
 
-Please feel free to reach out to me. 
+My research interests include **Human Mobility Modeling**, **Spatially Explicit AI**, **Generative AI**. 
+
+Please feel free to reach out to me!
