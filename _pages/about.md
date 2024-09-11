@@ -26,4 +26,4 @@ Prior to my Ph.D., I earned my Master degree from State Key Laboratory of Resour
 
 My research interests include **Human Mobility Modeling**, **Spatially Explicit AI**, **Generative AI**. 
 
-Please feel free to reach out to me!
+Please feel free to reach out to me! chenchu@usc.edu
