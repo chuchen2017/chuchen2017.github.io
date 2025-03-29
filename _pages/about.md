@@ -24,6 +24,6 @@ Standing at the frontier that bridges spatial data science and Artificial Intell
 
 Prior to my Ph.D., I earned my Master degree from State Key Laboratory of Resources and Environmental Information System(LREIS), University of Chinese Academy of Sciences(UCAS), where I was supervised by Professor [Feng Lu](https://scholar.google.com/citations?user=oeS87xoAAAAJ&hl=zh-CN) and Associate Professor [Hengcai Zhang](https://scholar.google.com/citations?user=ys6nhTMAAAAJ&hl=zh-CN&oi=ao). 
 
-My research interests include **Human Mobility Modeling**, **Spatially Representation Learning**. 
+My research interests include **Human Mobility Modeling**, **Spatially Representation Learning**, **Generative AI**. 
 
 Please feel free to reach out! chenchu@usc.edu
