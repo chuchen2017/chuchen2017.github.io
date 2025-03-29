@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b><font color="red">2020 Chinese National Scholarship (top 0.5%)</font></b>
+<b>2020 Chinese National Scholarship (top 0.5%)</b>
