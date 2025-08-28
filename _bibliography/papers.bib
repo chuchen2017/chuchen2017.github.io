@@ -3,7 +3,7 @@
 
 @string{aps = {American Physical Society,}}
 
-@inproceedings{Geo2Vec,
+@article{Geo2Vec,
       title={Geo2Vec: Shape- and Distance-Aware Neural Representation of Geospatial Entities}, 
       author={Chen Chu and Cyrus Shahabi},
       year={2025},
@@ -11,14 +11,14 @@
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2508.19305}, 
-        selected={true},
+      selected={true},
   preview={Geo2Vec.png},
   booktitle = {arXiv, https://arxiv.org/abs/2508.19305},
   pdf={Geo2Vec.pdf},
   abstract={Spatial representation learning is essential for GeoAI applications such as urban analytics, enabling the encoding of shapes, locations, and spatial relationships (topological and distance-based) of geo-entities like points, polylines, and polygons. Existing methods either target a single geo-entity type or, like Poly2Vec, decompose entities into simpler components to enable Fourier transformation, introducing high computational cost. Moreover, since the transformed space lacks geometric alignment, these methods rely on uniform, non-adaptive sampling, which blurs fine-grained features like edges and boundaries. To address these limitations, we introduce Geo2Vec, a novel method inspired by signed distance fields (SDF) that operates directly in the original space. Geo2Vec adaptively samples points and encodes their signed distances (positive outside, negative inside), capturing geometry without decomposition. A neural network trained to approximate the SDF produces compact, geometry-aware, and unified representations for all geo-entity types. Additionally, we propose a rotation-invariant positional encoding to model high-frequency spatial variations and construct a structured and robust embedding space for downstream GeoAI models. Empirical results show that Geo2Vec consistently outperforms existing methods in representing shape and location, capturing topological and distance relationships, and achieving greater efficiency in real-world GeoAI applications. },
 }
 
-@inproceedings{SIGSPATIAL2025,
+@article{SIGSPATIAL2025,
 author = {Chu, Chen and Shahabi, Cyrus and Tung, Emmanuel and Shafique, Khurram},
 title = {One Model, Many Cities: A Transferable Social Relationship Inference Framework for Human Mobility Data},
 year = {2025},
@@ -26,7 +26,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3748636.3762710},
 doi = {10.1145/3748636.3762710},
-booktitle = {ACM SIGSPATIAL 2025},
+booktitle = {<b>ACM SIGSPATIAL 2025</b>},
 numpages = {11},
 series = {SIGSPATIAL '25},
 selected={true},
