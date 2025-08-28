@@ -12,7 +12,10 @@
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2508.19305}, 
         selected={true},
-  preview={Geo2Vec.png}
+  preview={Geo2Vec.png},
+  booktitle = {arXiv, href{https://arxiv.org/abs/2508.19305}},
+  pdf={Geo2Vec.pdf},
+  abstract={Spatial representation learning is essential for GeoAI applications such as urban analytics, enabling the encoding of shapes, locations, and spatial relationships (topological and distance-based) of geo-entities like points, polylines, and polygons. Existing methods either target a single geo-entity type or, like Poly2Vec, decompose entities into simpler components to enable Fourier transformation, introducing high computational cost. Moreover, since the transformed space lacks geometric alignment, these methods rely on uniform, non-adaptive sampling, which blurs fine-grained features like edges and boundaries. To address these limitations, we introduce Geo2Vec, a novel method inspired by signed distance fields (SDF) that operates directly in the original space. Geo2Vec adaptively samples points and encodes their signed distances (positive outside, negative inside), capturing geometry without decomposition. A neural network trained to approximate the SDF produces compact, geometry-aware, and unified representations for all geo-entity types. Additionally, we propose a rotation-invariant positional encoding to model high-frequency spatial variations and construct a structured and robust embedding space for downstream GeoAI models. Empirical results show that Geo2Vec consistently outperforms existing methods in representing shape and location, capturing topological and distance relationships, and achieving greater efficiency in real-world GeoAI applications. },
 }
 
 @inproceedings{SIGSPATIAL2025,
@@ -27,7 +30,12 @@ booktitle = {ACM SIGSPATIAL 2025},
 numpages = {11},
 series = {SIGSPATIAL '25},
 selected={true},
-preview={SIGSPATIAL25.png}
+preview={SIGSPATIAL25.png},
+pdf={SIGSPATIAL25.pdf},
+abstract={Inferring social relationships from mobility data is crucial for many applications because it reflects real-world connections among people. However, large-scale trajectory datasets with ground-truth social ties are exceedingly scarce, making it difficult to train deep models for relationship inference. To address this gap, we propose a transferable social relationship inference framework that can be trained on one high-quality, labeled dataset and then generalized to new datasets, even from different cities.\\
+Our framework rests on the key insight that social bonds depend largely on the frequency of individual meetings and the popularity of those meeting locations, both of which can be inferred statistically from raw trajectory data, irrespective of the underlying geographic semantics. It comprises two main modules: 1) Universal Social Relationship Classifier (USRC): A model trained to infer social relationships from trajectory data, and 2) Spatial Embedding Transfer (SET): A location embedding alignment technique that adapts new datasets to the pre-trained USRC model.\\
+By aligning location embeddings, SET module enables the pre-trained USRC to interpret previously unseen datasets without extra supervision. Experiments on five public datasets demonstrate that our method achieves state-of-the-art performance in zero-shot social relationship inference, surpassing other unsupervised, and in some cases, even supervised, approaches. Additionally, the SET module significantly improves location embedding alignment, outperforming existing baseline methods.},
+
 }
 
 

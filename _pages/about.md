@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Building the wheel for next-generation GeoAI.</b>
+subtitle: <b>Building wheels for next-generation GeoAI.</b>
 
 profile:
   align: right
