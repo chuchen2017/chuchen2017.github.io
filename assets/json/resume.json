@@ -6,23 +6,33 @@
     "email": "chenchu@usc.edu",
     "phone": "323-449-1883",
     "url": "https://chuchen2017.github.io/",
-    "Research Interests": "human mobility modeling",
     "location": {
       "countryCode": "China",
       "region": "Beijing"
     }
   },
   "education": [
+        {
+      "institution": "University of Southern California",
+      "area": "Computer Science",
+      "studyType": "PhD student",
+      "startDate": "2024-08-19",
+      "endDate": "Present",
+      "score": "",
+      "courses": [
+        "Deep Learning","Representation Learning"
+      ]
+    },
     {
       "institution": "State Key Laboratory of Resources and Environmental Information System, IGSNRR, University of Chinese Academy of Sciences. <br> Supervised by <b><a href=\"http://english.igsnrr.cas.cn/people/scientists/index_19010.html?json=http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/yw/scientists/En_sklreis/202012/t20201211_5815405.json\">Prof. Feng Lu</a> </b> and <b><a href=\"https://scholar.google.com/citations?user=ys6nhTMAAAAJ&hl=zh-CN&oi=ao\">Assoc Prof. Hengcai Zhang</a> </b>",
       "url": "http://english.igsnrr.cas.cn/",
-      "area": "GIScience",
+      "area": "Geography Information Science",
       "studyType": "Master",
       "startDate": "2021-09-01",
       "endDate": "2024-06-01",
       "score": "",
       "courses": [
-        "Spatial Data Mining"
+        "Spatial Data Mining","Generative AI"
       ]
     },
     {
@@ -91,16 +101,6 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "Python",
-      "fluency": ""
-    },
-    {
-      "language": "English",
-      "fluency": "TOEFL:104"
-    }
-  ],
   "interests": [],
   "references": [],
   "projects": []
