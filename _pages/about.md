@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Spatial Data Scientist.</b>
+subtitle: <b>Building the wheel for next-generation GeoAI.</b>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am `Chen Chu` (初晨), I am a first-year Computer Science Ph.D. student at the University of Southern California(USC), advised by Professor [Cyrus Shahabi](https://infolab.usc.edu/). I am passionate about developing SOTA AI models to solve spatial problems, which involved trajectory modeling and prediction, spatial representation learning.
+Hi! I am `Chen Chu` (初晨), I am a second-year Computer Science Ph.D. student at the University of Southern California(USC), advised by Professor [Cyrus Shahabi](https://infolab.usc.edu/). I am passionate about developing SOTA AI models to solve spatial problems, which involved trajectory modeling and prediction, spatial representation learning.
 
 Standing at the frontier that bridges spatial data science and Artificial Intelligence, I believe the next turning point of spatial AI will be brought by a unified representation learning method of space and spatial entities.
 
