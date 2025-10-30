@@ -7,25 +7,11 @@ tags: life images
 categories: sample-posts
 thumbnail: assets/img/basketball3.jpg
 ---
-Basketball is my favorite sport. I develop the hobby to a relative high level. I have played for both my undergraduate and graduate university as a member of their men's basketball team.
+Basketball is my favorite sport. I have proudly played for both my undergraduate and graduate university as a member of their men's basketball team. Great Team Atomsphere in both teams!
 
-With the team of University of Chinese Academy of Science, we won the fifth place in the CUBA(Chinese University Basketball Association) games of Beijing. It's UCAS's first time to organize a team to take part in such competition (Thanks to our coach, Professor Tianyu Zhu, who is a former professional basketball player in CBA).
+With the team of University of Chinese Academy of Science, we won the second plcae in the CUBAL 2024 Beijing Section (Thanks to our coach, Professor Tianyu Zhu, who is a former professional basketball player).
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/basketball2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/basketball3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    Play with team of UCAS
-</div>
-
-Then we won the second plcae in the CUBAL 2024 Beijing Section.
-
-<div class="row mt-3">
+ <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -37,8 +23,21 @@ Then we won the second plcae in the CUBAL 2024 Beijing Section.
     Play with team of UCAS
 </div>
 
+We won the fifth place in the CUBA(Chinese University Basketball Association) games of Beijing. It's UCAS's first time to organize a team to take part in such competition.
 
-With the team of Yunnan University, we won the fifth place in the CUBA games in Yunnan Province. (Pity)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/basketball2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/basketball3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Play with team UCAS
+</div>
+
+With the team Yunnan University, we won the fifth place in the CUBA games in Yunnan Province.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,7 +48,7 @@ With the team of Yunnan University, we won the fifth place in the CUBA games in 
     </div>
 </div>
 <div class="caption">
-    Play with Yunnan University
+    Play with team Yunnan University
 </div>
 
 
